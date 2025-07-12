@@ -1,0 +1,3 @@
+/Users/nifemi22/GRIND-Engine/build/CMakeFiles/grind.dir
+/Users/nifemi22/GRIND-Engine/build/CMakeFiles/edit_cache.dir
+/Users/nifemi22/GRIND-Engine/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+# Build and temp files
+build/
+*.o
+*.out
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# macOS system files
+.DS_Store
